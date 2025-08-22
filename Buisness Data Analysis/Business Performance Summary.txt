@@ -1,0 +1,105 @@
+
+💼 Business Performance Summary – Sales Data Analysis
+Prepared By: Rudrapratap Sarma
+Analysis Type: Exploratory Data Analysis (EDA)
+Data Period: Jan 2023 – Oct 2023
+Objective: Understand sales trends, product performance, and regional distribution to guide data-driven decisions.
+
+🧮 Level 1 – Basic Statistics
+Total Transactions: 41
+
+Total Revenue: ₹3,22,625.00
+
+Unique Products: 11
+
+Unique Regions: 5
+
+⚠️ Note: Presence of "Unknown" region and inconsistent product names like 'Tshirt' and 'T-Shirt' indicates a need for better input standardization.
+
+📦 Revenue by Product:-
+Top Seller: 💻 Laptop – ₹2,50,000.00
+
+Other Strong Performers:
+
+Smartphone – ₹36,000.00
+
+Backpack – ₹10,500.00
+
+Underperformers:
+
+Pen – ₹125.00
+
+Notebook – ₹300.00
+
+🎯 Recommendation: Focus marketing and inventory efforts on high-revenue products like Laptops and Smartphones. Review SKU naming inconsistencies (e.g., Tshirt vs T-Shirt).
+
+📍 Revenue by Region
+Top Region: 🏅 Unknown – ₹1,32,920.00 (Needs fixing)
+
+Top Known Region: East – ₹1,05,485.00
+
+Lowest Performing: North – ₹8,720.00
+
+⚠️ Unknown region generated ~41% of revenue. This may be a data quality issue and should be investigated and corrected.
+
+📅 Monthly Sales Trend (2023)
+Month	Revenue	Change
+Jan	₹55,525	—
+Feb	₹6,625	⬇️ ₹48,900
+Mar	₹1,06,860	⬆️ ₹100,235
+Apr	₹50,860	⬇️ ₹56,000
+May	₹12,545	⬇️ ₹38,315
+Jun	₹3,000	⬇️ ₹9,545
+Jul	₹12,000	⬆️ ₹9,000
+Sep	₹25	⬇️ ₹11,975
+Oct	₹5,000	⬆️ ₹4,975
+
+🔍 Insight: March was the best month. A steep drop followed in April and continued till June. A partial recovery was seen in July. September saw the lowest recorded revenue.
+
+🏆 Product Performance Summary
+Top 5 Products (80%+ of revenue):
+
+Laptop – ₹2,50,000
+
+Smartphone – ₹36,000
+
+Backpack – ₹10,500
+
+Headphones – ₹8,000
+
+Shoes – ₹7,500
+
+Bottom 5 Products (Low ROI):
+
+Tshirt, T-Shirt, Book, Notebook, Pen
+
+💡 Combine similar SKUs (Tshirt & T-Shirt) and consider reducing inventory or discounting bottom performers.
+
+🧭 Regional Performance
+Best Known Region: East
+
+Worst: North
+
+Unknown: Contributing the highest revenue → Needs Data Fix
+
+📌 Action: Investigate source of Unknown region and enforce mandatory input fields at data entry.
+
+📈 Trends & Opportunities
+Sales Peak: March 2023
+
+Sales Dip: September 2023
+
+Product Demand: Tech gadgets dominate (Laptop, Smartphone, Headphones)
+
+✅ Key Recommendations
+Clean 'Unknown' region data for accurate regional performance tracking.
+
+Standardize product naming (Tshirt vs T-Shirt) in backend system.
+
+Run promos in low-revenue months based on trend analysis (e.g., May–July).
+
+Focus on tech product line – they dominate revenue contribution.
+
+Support underperforming regions like North with targeted campaigns.
+
+
