@@ -49,7 +49,7 @@ This allowed me to practice CRUD operations (Create, Read, Update, Delete) on di
 4. Remove Order
 5. Revenue Analysis
 6. Best-Selling Product
-7. Category - wise Revenue
+7. Category-wise Revenue
 8. Basket Analysis
 9. Discount Simulation
 10. Exit
