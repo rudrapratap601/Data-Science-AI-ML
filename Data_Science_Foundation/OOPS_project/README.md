@@ -40,7 +40,7 @@ This project was designed to strengthen core Python fundamentals while simulatin
 
 ⚡ This video shows near about ~10 out of 20 features due to time limits.
 
-👉 [LinkedIn Post / Demo Video ] ()
+👉 [LinkedIn Post / Demo Video ] (https://www.linkedin.com/feed/update/urn:li:activity:7371200437418389504/)
 
 ---
 
